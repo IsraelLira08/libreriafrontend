@@ -1,0 +1,14 @@
+body{
+    background-image: url('/frontend/assets/login.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#error {
+    color:red;
+     display: none;
+
+}
+#img-login{
+    width: 100px; height: 100px;
+}
